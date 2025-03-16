@@ -44,19 +44,20 @@ This rulebook outlines the competition format, scoring system, eligibility requi
 
 ## SCORING SYSTEM
 
-### Base Points and Time Deduction
-- Each team starts with a fixed amount of points at the beginning of the competition.
-- For each second of elapsed time, 0.5 points will be deducted from the team's total score.
-- The competition lasts 8 hours (including breakfast and lunch breaks).
+### Hidden Initial Score
+- Each team will be assigned a hidden initial score that will only be considered if they complete all problems within the timeline.
+- Each problem has a fixed time allocation and a fixed point value associated with it.
+
+### Time-Based Scoring
+- For each second of elapsed time during the competition, 0.5 points will be deducted from all teams.
+- Each problem has a designated time limit (e.g., 60 minutes for a particular problem).
+- If a team completes a problem before its time limit expires, the remaining time points will be added to their initial hidden score.
+  - Example: If a problem is worth 900 points with a 60-minute time limit, and a team completes it in 40 minutes, 300 points (20 minutes × 0.5 points/second × 60 seconds/minute) will be added to their initial hidden score.
 
 ### Submissions and Penalties
 - The first submission for each problem will be evaluated for scoring.
 - Each incorrect submission incurs a 5-minute penalty (equivalent to 150 point deduction).
 - Multiple incorrect submissions for the same problem will accumulate penalties.
-
-### Bonus Points
-- Teams will receive bonus points based on the remaining time after completing all challenges.
-- The formula for bonus calculation will be provided at the start of the competition.
 
 ### Ranking
 - The team with the highest final score will be declared the Champion.
